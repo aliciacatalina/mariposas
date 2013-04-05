@@ -1,0 +1,85 @@
+
+{
+    "timeline":
+    {
+        "headline":"PROYECTO MARIPOSAS",
+        "type":"default",
+		"startDate":"2013,1",
+		"text":"<i><span class='c1'>Creando conciencia acerca de los </br> jardines polinizadores</span></i>",
+		"asset":
+        {
+            "media":"assets/img/notes.png",
+            "credit":"<a href='http://dribbble.com/shots/221641-iOS-Icon'>iOS Icon by Asher</a>",
+            "caption":""
+        },
+        "date": [
+            {
+                "startDate":"2013,3",
+                "headline":"Vuelven al Norte",
+                "text":"Comienzan su migracion hacia el Norte, volviendo.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,5",
+                "headline":"Llegan a Canada",
+                "text":"CANADA.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"2013,6",
+                "headline":"Migracion hacia el Sur",
+                "text":"",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,10",
+                "headline":"Llegan a Mexico",
+                "text":"",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,11",
+                "headline":"Llegada al Santuario de Michoacan",
+                "text":"",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,12",
+                "headline":"SIGUES TU",
+                "text":"Planta tu propio jardin polinizador.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
