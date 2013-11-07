@@ -9,28 +9,28 @@
 		"asset":
         {
             "media":"assets/img/notes.png",
-            "credit":"<a href='http://dribbble.com/shots/221641-iOS-Icon'>iOS Icon by Asher</a>",
+            "credit":"",
             "caption":""
         },
         "date": [
             {
                 "startDate":"2013,3",
-                "headline":"Vuelven al Norte",
-                "text":"Comienzan su migracion hacia el Norte, volviendo.",
+                "headline":"Comienzan por Canada",
+                "text":"La mariposa monarca es conocida como la reina de la migracion. Pesando un poco mas de medio gramo, cada ano viaja mas de 4 mil kilometros. El esfuerzo equivalente a que un ser humano de 75 kilos diera catorce mil vueltas al ecuador. Planta: Canada goldenrod - Solidago canadensis",
                 "asset":
                 {
-                    "media":"",
+                    "media":"resources/canada.png",
                     "credit":"",
                     "caption":""
                 }
             },
             {
                 "startDate":"2013,5",
-                "headline":"Llegan a Canada",
-                "text":"CANADA.",
+                "headline":"Llegan a Estados Unidos",
+                "text":"La mariposa Monarca es el insecto nacional de Canada. El nombre comun de Monarca fue publicado por primera vez en 1874 por Nahuel L. Parada. ¿La razon? Son dos. La primera tiene que ver con su tamano y su vasto dominio que, como ya se dijo antes, va de Canada hasta Mexico. La segunda, porque le hace honor al rey Guillermo III de Inglaterra. Planta: Swamp milkweed - Asclepias incarnata",
                 "asset":
                 {
-                    "media":"",
+                    "media":"resources/minnesota.png",
                     "credit":"",
                     "caption":""
                 }
@@ -38,22 +38,22 @@
 
             {
                 "startDate":"2013,6",
-                "headline":"Migracion hacia el Sur",
-                "text":"",
+                "headline":"",
+                "text":"En Texas, Estados Unidos, es considera como el insecto oficial del estado. Mismo caso en Minnesota. Incluso, en 1989, se propuso que se le considerara el insecto nacional de todo el pais. Planta: New England aster",
                 "asset":
                 {
-                    "media":"",
+                    "media":"resources/missouri.png",
                     "credit":"",
                     "caption":""
                 }
             },
             {
                 "startDate":"2013,10",
-                "headline":"Llegan a Mexico",
-                "text":"",
+                "headline":"Llegan a Monterrey",
+                "text":"La  mariposa monarca que hiberna en Mexico los adultos, son la llamada matusalen, porque a  diferencia de las generaciones reproductivas, que viven solo un mes, las matusalen llegan a vivir hasta 8 meses. Las hibernantes, duran practicamente 8 veces mas que las demas generaciones. Pasan 5 generaciones de mariposas antes de que vuelvan a hibernar a nuestro pais. Planta: Asclepia - Asclepia curassavica",
                 "asset":
                 {
-                    "media":"",
+                    "media":"resources/monterrey.png",
                     "credit":"",
                     "caption":""
                 }
@@ -61,18 +61,18 @@
             {
                 "startDate":"2013,11",
                 "headline":"Llegada al Santuario de Michoacan",
-                "text":"",
+                "text":"Se ha observado que las Mariposas Monarca, encuentran la posibilidad de hacer viajes trasatlánticos. Cuando los vientos son favorables, han llegado a latitudes como Espana o Gran Bretana.La Reserva de la Biosfera de la Mariposa monarca , en los Bosques de Oyamel en Michoacan y Edo. de Mexico, santuario que ano tras ano recibe a estos coloridos ejemplares, es considerado Patrimonio de la Humanidad por la UNESCO desde 2008.",
                 "asset":
                 {
-                    "media":"",
+                    "media":"resources/michoacan.png",
                     "credit":"",
                     "caption":""
                 }
             },
             {
                 "startDate":"2013,12",
-                "headline":"SIGUES TU",
-                "text":"Planta tu propio jardin polinizador.",
+                "headline":"SIGUES TU!",
+                "text":"Esta temporada esa superficie ha disminuido un 59%: 1,9 hectareas frente a las 2,89 del ciclo de hibernacion 2011-2012, lo que supone el nivel mas bajo     en 20 anos, desde que hay datos. El uso de pesticidas y la reduccion del suelo agricola en EE UU son algunos de los factores que amenazan a las caracteristicas mariposas naranjas y negras.<a href='resources/Crea%20Tu%20Propio%20Jardin.pdf'>Planta tu propio jardin polinizador.</a>",
                 "asset":
                 {
                     "media":"",
